@@ -7,11 +7,11 @@ public class FileWriting{
 public static void main(String args[]) throws IOException{
     FileWriter fr = new FileWriter("C:\\Users\\Karthik\\Documents\\Assignments\\FileHandling_1\\Files.txt");
     BufferedWriter br = new BufferedWriter(fr);
-    br.write("Karthik");
+    br.write("Maseed");
     br.newLine();
-    br.write("Krithik");
+    br.write("nayeem");
     br.newLine();
-    br.write("bhanu");
+    br.write("pretham");
     br.close();
 }
 }
