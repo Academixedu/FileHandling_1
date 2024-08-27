@@ -5,7 +5,7 @@ import java.io.IOException;
 public class FileReading{
 // Prepare a Logic to Read Data from File and Print IT USing Buffered Reader
 public static void main(String args[]) throws IOException{
-    FileReader fr = new FileReader("C:\\Users\\Karthik\\Documents\\Assignments\\FileHandling_1\\Files.txt");
+    FileReader fr = new FileReader("E:\nayeem\Assignments\assignment 26\Files.txt"");
     BufferedReader br = new BufferedReader(fr);
     String str ="";
     while((str=br.readLine())!=null)
