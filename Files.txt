@@ -1,1 +1,6 @@
 Load the Content Here
+.
+This is a FileReading Concept
+.
+After stroing data in a file -Filewriting
+.
